@@ -10,9 +10,7 @@ Interactive dashboard analyzing air quality data across major Indian cities.
 - City-wise pollutant comparison
 - AQI category distribution
 - Correlation analysis
-
-- <img width="892" height="848" alt="Screenshot 2025-11-18 122121" src="https://github.com/user-attachments/assets/994dfee9-564c-460e-9342-8e99e8cad97a" />
-
+<img width="892" height="848" alt="Screenshot 2025-11-18 122121" src="https://github.com/user-attachments/assets/994dfee9-564c-460e-9342-8e99e8cad97a" />
 <img width="879" height="904" alt="Screenshot 2025-11-18 122141" src="https://github.com/user-attachments/assets/3351407f-ad3b-4db4-b441-28be4d0ad86e" />
 
 
